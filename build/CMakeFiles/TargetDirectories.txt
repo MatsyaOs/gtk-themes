@@ -1,0 +1,6 @@
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/install/strip.dir
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/install/local.dir
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/install.dir
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/list_install_components.dir
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/rebuild_cache.dir
+/home/tokyo/clone/cuteclone/gtk-themes/build/CMakeFiles/edit_cache.dir
